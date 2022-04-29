@@ -1,0 +1,1 @@
+{"version":3,"sources":["Banner.css"],"names":[],"mappings":"AAAA,gCACI,QACJ,CACA,iBACI,aAAgB,CAChB,gBACJ","file":"14.1a23e5ad.chunk.css","sourcesContent":[".MuiAccordion-root.Mui-expanded {\r\n    margin: 0px 0;\r\n}\r\n.MuiList-padding {\r\n    padding-top: 0px;\r\n    padding-bottom: 0px;\r\n}"]}
